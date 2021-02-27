@@ -8,3 +8,6 @@ so if it divides N it is not prime (N) otherwise it is prime (N)</P>
 for(i=sqrt(n); i>1; i--) if(n%i == 0) return false;
 return true;
 ...
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;▫️ EXAMPLES ▫️</p>
+[Print all prime numbers until n](Onula/PrintPrimeNumbers.c)
+                        
