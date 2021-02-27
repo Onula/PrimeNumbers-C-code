@@ -1,4 +1,5 @@
-//This code print the prime numbers  using isPrime(n) function
+//By Onur Ibrahim( Onula )
+//This code print the prime numbers using isPrime(n) function
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
