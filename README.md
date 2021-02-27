@@ -3,7 +3,7 @@
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;▫️ METHOD ▫️</p>
 <p>At least one divisor of N is less than the square root of the number 
 so if it divides N it is not prime (N) otherwise it is prime (N)</P>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;▫️ FUNCTION CODE ▫️</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;▫️ FUNCTION CODE ▫️</p>
 
 
 	bool isPrime( int n ){
