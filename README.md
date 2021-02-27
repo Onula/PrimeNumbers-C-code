@@ -1,9 +1,9 @@
 # PrimeNumbers-C-code
 ▫️Function that take a N number and return __true or 1__ if it is prime or __false or 0__ if not.
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;▫️ METHOD ▫️</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;▫️ __METHOD__ ▫️</p>
 <p>At least one divisor of N is less than the square root of the number 
 so if it divides N it is not prime (N) otherwise it is prime (N)</P>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;▫️ FUNCTION CODE ▫️</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;▫️ __FUNCTION CODE__ ▫️</p>
 
     #include <stdbool.h>  
     ...
