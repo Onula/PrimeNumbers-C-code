@@ -13,7 +13,6 @@ int main(){
 	for(i=2; i<=n; i++) if( isPrime(i) ) printf("%d ", i);
 }
 
-
 bool isPrime(int n){
 	int i;
 	for(i=sqrt(n); i>1; i--) if(n%i == 0) return false;//If at least one number between {2,...,sqrt(n)} divides the n number then it is not a prime number 
